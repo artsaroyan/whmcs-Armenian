@@ -25,9 +25,9 @@ if (!defined("WHMCS")) die("This file cannot be accessed directly");
 
 $_LANG['locale'] = "hy_AM";
 
-$_LANG['accountinfo'] = "Account Information";
-$_LANG['accountstats'] = "Account Statistics";
-$_LANG['addfunds'] = "Add Funds";
+$_LANG['accountinfo'] = "Հաշվի տեղեկություններ";
+$_LANG['accountstats'] = "Հաշվի վիճակագրություն";
+$_LANG['addfunds'] = "Ավելացնել գումար";
 $_LANG['addfundsamount'] = "Amount to Add";
 $_LANG['addfundsmaximum'] = "Maximum Deposit";
 $_LANG['addfundsmaximumbalance'] = "Maximum Balance";
@@ -2103,7 +2103,7 @@ $_LANG['orderForm']['enterDomain'] = "Please enter your domain";
 $_LANG['orderForm']['authCode'] = "Authorization Code";
 $_LANG['orderForm']['authCodePlaceholder'] = "Epp Code / Auth Code";
 $_LANG['orderForm']['authCodeTooltip'] = "To initiate a transfer you will need to obtain the authorization code from your current registrar. These can often be referred to as either the epp code or auth code. They act as a password and are unique to the domain name.";
-$_LANG['orderForm']['help'] = "Help";
+$_LANG['orderForm']['help'] = "Օգնություն";
 $_LANG['orderForm']['required'] = "Required";
 
 $_LANG['orderForm']['checkingAvailability'] = 'Checking availability';
@@ -2120,7 +2120,7 @@ $_LANG['orderForm']['domainInvalidCheckEntry'] = 'Please check your entry and tr
 $_LANG['orderForm']['domainPriceRegisterLabel'] = 'Continue to register this domain for';
 $_LANG['orderForm']['domainPriceTransferLabel'] = 'Transfer to us and extend by 1 year* for';
 
-$_LANG['change'] = "Change";
+$_LANG['change'] = "Փոփոխել";
 
 $_LANG['filemanagement']['nofileuploaded'] = "No file uploaded.";
 $_LANG['filemanagement']['invalidname'] = "Valid filenames contain only alpha-numeric, dot, hyphen and underscore characters.";
@@ -2138,13 +2138,13 @@ $_LANG['orderForm']['domainLengthRequirements'] = " and be between <span class=\
 
 $_LANG['clientareatransferredaway'] = "Transferred Away";
 $_LANG['clientareacompleted'] = "Completed";
-$_LANG['domainContactUs'] = "Contact Us";
+$_LANG['domainContactUs'] = "Կապ մեզ հետ";
 
 $_LANG['orderForm']['shortPerYear'] = "/:yearsyr";
 $_LANG['orderForm']['shortPerYears'] = "/:yearsyrs";
 
-$_LANG['domainCheckerSalesGroup']['sale'] = "Sale";
+$_LANG['domainCheckerSalesGroup']['sale'] = "Զեղչ";
 $_LANG['domainCheckerSalesGroup']['hot'] = "Hot";
-$_LANG['domainCheckerSalesGroup']['new'] = "New";
+$_LANG['domainCheckerSalesGroup']['new'] = "Նոր";
 
-////////// End of english language file.  Do not place any translation strings below this line!
+////////// End of armenian language file.  Do not place any translation strings below this line!
